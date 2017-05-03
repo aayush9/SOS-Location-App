@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Safety Cycle Panic</string>
+    <string name="title_activity_maps">Safety Cycle Panic</string>
+    <string name="action_settings">Change Emergency Number</string>
+</resources>
